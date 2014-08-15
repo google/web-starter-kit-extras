@@ -2,7 +2,7 @@
 
 This repository contains optional additions to [Web Starter Kit (WSK)][0] project which, while useful, do not strictly belong in the main WSK repository.
 
-## [Server Configs](tree/master/server-configs)
+## [Server Configs](server-configs)
 
 Boilerplate configurations for various web servers to host WSK-based app.
 
