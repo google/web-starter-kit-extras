@@ -1,6 +1,6 @@
 # Web Starter Kit Extras
 
-This repository contains optional additions to [Web Starter Kit (WSK)][0] project which, while useful, do not strictly belong in the main WSK repository.
+This repository contains optional additions to [Web Starter Kit (WSK)][0] project, such as web server configurations, which, while useful, do not strictly belong in the main WSK repository.
 
 ## [Server Configs](server-configs)
 

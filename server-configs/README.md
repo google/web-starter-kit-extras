@@ -1,6 +1,14 @@
 # Server Configs
 
-Boilerplate configurations for various web servers to host WSK-based app.
+Many users asked about hosting their WSK-based apps and we thought we would
+provide some boilerplate configurations for various web servers and other hosting
+solutions.
+
+[HTML5 Boilerplate project (H5BP)][9] already provides a number of useful configurations.
+Those are linked as submodules in this directory.
+
+We will try to reuse and contribute to as many OSS projects (like H5BP) as
+we find to see fit Web Starter Kit.
 
 ### [Apache][5]
 
@@ -40,3 +48,4 @@ Please, follow [Hosting a Static Website on Amazon S3][4] guide on the AWS S3 do
 [6]: https://github.com/h5bp/server-configs-gae
 [7]: https://github.com/h5bp/server-configs-nginx
 [8]: https://github.com/h5bp/server-configs-node
+[9]: http://html5boilerplate.com/
