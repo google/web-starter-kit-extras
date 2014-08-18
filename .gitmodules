@@ -1,0 +1,12 @@
+[submodule "server-configs/nginx"]
+	path = server-configs/nginx
+	url = https://github.com/h5bp/server-configs-nginx.git
+[submodule "server-configs/apache"]
+	path = server-configs/apache
+	url = https://github.com/h5bp/server-configs-apache.git
+[submodule "server-configs/gae"]
+	path = server-configs/gae
+	url = https://github.com/h5bp/server-configs-gae.git
+[submodule "server-configs/node"]
+	path = server-configs/node
+	url = https://github.com/h5bp/server-configs-node.git
